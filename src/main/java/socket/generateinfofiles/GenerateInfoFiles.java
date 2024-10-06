@@ -59,7 +59,7 @@ public class GenerateInfoFiles {
     // Method for generating seller information file
     public static void createSalesManInfoFile(int salesmanCount) {
         String fileName = "salesmen_info.txt";
-        String[] names = {"John", "Pablo", "Marha", "Maricela", "Juan"};
+        String[] names = {"John", "Pablo", "Martha", "Maricela", "Juan"};
         String[] surnames = {"Sanchez", "Camargo", "Mera", "Lopez", "Tellez"};
 
         Random random = new Random();

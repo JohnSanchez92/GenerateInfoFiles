@@ -1,0 +1,71 @@
+1. Lo aprendido durante el desarrollo del proyecto. 
+
+Martha: 
+
+Durante el desarrollo del proyecto, aprendimos que para crear un sistema o aplicación de calidad es fundamental tener claridad sobre los requisitos necesarios. Esto implica realizar un análisis detallado de cada uno de los requisitos planteados, lo que nos permite buscar la mejor solución utilizando las herramientas de desarrollo adecuadas. Además, es valioso conocer las diversas formas de acceder a la información relacionada con la elaboración del código, para seleccionar la opción que mejor se ajuste a nuestras necesidades. 
+
+Juan: 
+
+El proyecto permitió fortalecer los conocimientos de programación en Java a través de la gestión de datos. Se logró procesar y generar reportes a partir de archivos planos, lo cual repercutió en un manejo de datos eficiente. Así mismo, permitió poner en práctica los conceptos aprendidos y entender su lógica para desarrollar un código satisfactoriamente, siempre bajo los lineamientos de la programación y su correcto uso. 
+
+Maricela 
+
+La elaboración del proyecto requiere y deja como aprendizaje la importancia de planificar y estructurar un programa y de siempre validar los datos antes de procesarlos para asegurar que el programa funcione correctamente, es necesario tener claros los objetivos y las funciones y cómo interactúan los diferentes componentes, además se aprendió a manejar archivos en otros formatos como texto y SCV, estos ejercicios nos dan una prepacion para elaborar en un fututo programas mas complejos. 
+
+John: 
+
+Durante el desarrollo de este proyecto, hemos adquirido un entendimiento más profundo sobre el manejo de archivos en Java, especialmente en la generación y procesamiento de archivos de texto planos. Hemos aprendido a implementar buenas prácticas de programación, tales como la correcta documentación del código, el uso adecuado de convenciones de nombrado, y la importancia de organizar el código de forma modular y clara. Además, comprendimos cómo diseñar algoritmos eficientes para leer, procesar y organizar grandes volúmenes de datos, lo cual nos permitirá trabajar con escenarios reales en la industria del software. 
+
+ 
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto. 
+
+ 
+
+Martha: 
+
+Con los nuevos conocimientos adquiridos en programación y el desarrollo práctico realizado durante la materia, hemos descubierto que la automatización de datos puede agilizar procesos en diversos ámbitos de la vida diaria. Esto nos permite aplicar nuestros conocimientos para crear aplicaciones que gestionen inventarios de productos (entradas, salidas y reportes), supervisen proyectos (asignación de tareas, responsables y seguimiento), organicen la educación (registro de estudiantes, calificaciones e informes), controlen finanzas personales (gestión de ingresos y gastos, generación de reportes) y mucho más. 
+
+Juan: 
+
+En el ámbito profesional de los Negocios Internacionales, los conceptos de programación aprendidos se aplicarán en diferentes campos de acción, como los reportes de ventas necesarios en áreas comerciales de las empresas. También en la gestión de procesos financieros y logísticos, debido a que estos requieren una habilidad de procesamiento automatizado que la programación permite desarrollar y es aplicable favorablemente. Por último, el manejo los datos de una manera eficiente que permite un análisis completo y una buena toma de decisiones. 
+
+Maricela 
+
+En el campo de la administración de empresas esta experiencia forja la capacidad de colaborar con equipos de tecnología, centro de datos y otros departamentos facilitando la implementación de soluciones tecnológicas, también permite validar el rendimiento financiero de la organización, las tendencias del mercado y el comportamiento de los consumidores y contribuir a buscar más eficiencia empresarial, la toma de decisiones informadas y la mejora continua en la organización. 
+
+John: 
+
+Las destrezas adquiridas en este proyecto son aplicables en muchos campos de la ingeniería de software. En el ámbito profesional, seremos capaces de diseñar y desarrollar sistemas que manejen grandes cantidades de información, como sistemas de gestión de ventas, inventarios, o cualquier solución que requiera el manejo eficiente de archivos y bases de datos. Además, las habilidades adquiridas en cuanto a la estructuración de programas y la documentación serán esenciales para colaborar en proyectos a gran escala, garantizar la mantenibilidad del código y facilitar el trabajo en equipo. 
+
+3. Las dificultades presentadas durante el desarrollo del proyecto. 
+
+Martha: 
+
+Entre las dificultades que enfrentamos se encuentran las diversas destrezas y habilidades de cada integrante del equipo en el desarrollo de software. No todos estamos en el mismo nivel ni contamos con las mismas competencias, lo que limita nuestra capacidad para proponer soluciones óptimas ante los problemas que se presentan. 
+
+Juan: 
+
+Las dificultades más notorias estuvieron relacionadas a la poca experiencia en el ámbito de programación, generando posibles errores en la generación de los archivos. Sin embargo, gracias a las explicaciones brindadas y la identificación de elementos faltantes se permitió desarrollo satisfactorio del proyecto. 
+
+Maricela 
+
+La mayor dificultad fue la falta de experiencia en programación ya que como grupo hay que coordinarse para dar respuesta a los requisitos solicitados y ese es un gran reto. 
+
+A la hora de probar el programa para asegurarse de que funciona fue tedioso, especialmente por las diferentes variables como fueron los formatos de los archivos y el tipo de datos que género.  
+
+John: 
+
+Una de las principales dificultades fue manejar adecuadamente la generación y lectura de archivos planos, especialmente al trabajar con múltiples archivos de entrada simultáneamente. Otro reto fue garantizar que el código estuviera bien documentado y organizado, manteniendo siempre las mejores prácticas de programación. Además, la integración y depuración de los diferentes componentes del proyecto nos exigió un enfoque metódico, para asegurar que todo funcionara correctamente en conjunto y que los reportes generados fueran precisos y ordenados según lo solicitado. 
+
+ 
+
+ 
+
+Pablo: 
+
+-El proyecto nos enseñó que tener claros los requisitos es básico para hacer una aplicación funcional, hicimos un análisis detallado de cada parte, lo que nos ayudó a encontrar mejores soluciones con las herramientas correctas. También aprendimos que es importante buscar diferentes fuentes para manejar bien la información y mejorar el código. 
+
+ 
+
+-El desarrollo del proyecto ayudó a reforzar lo aprendido en programación, especialmente en el manejo de datos y generación de reportes, a pesar de las dificultades, como la poca experiencia del equipo, logramos aplicar los conceptos de forma efectiva. Esto nos preparó para enfrentar retos futuros y usar programación en nuestras áreas profesionales. 
